@@ -1,0 +1,7 @@
+openai>=1.30
+chromadb>=0.5
+python-dotenv>=1.0
+fastapi>=0.110
+uvicorn[standard]>=0.27
+langgraph>=0.2
+mlflow>=2.12
